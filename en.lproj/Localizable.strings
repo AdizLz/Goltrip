@@ -1,0 +1,184 @@
+"home.subtitle" = "World Cup";
+"match.next" = "Next Match";
+"home.no_match" = "No match scheduled in ";
+"home.featured_in" = "Featured Events in ";
+"home.no_featured_events" = "No featured events today.";
+"home.see_all_events" = "See all events";
+"home.more_events_eb" = "More Events";
+"home.no_eb_events" = "No additional events found.";
+"home.quick_access" = "Quick Access";
+"home.stadium" = "Stadium";
+"home.stadium_map" = "Stadium map";
+"home.transport" = "Transport";
+"home.how_to_get" = "How to get there";
+
+"events.title" = "All Events";
+"events.featured.title" = "Featured Events";
+"events.eventbrite.title" = "Events";
+
+"stadium.subtitle" = "Interactive map";
+"stadium.view" = "Stadium View";
+"stadium.capacity" = "Capacity: ";
+"stadium.people_label" = " people";
+"stadium.facilities" = "Facilities";
+"stadium.seats" = "Seating";
+"stadium.seats.desc" = "VIP, Preferred, General";
+"stadium.food" = "Food & Drink";
+"stadium.food.desc" = "Multiple vendors";
+"stadium.accessibility" = "Accessibility";
+"stadium.accessibility.desc" = "Ramps and elevators";
+"stadium.important" = "Important";
+"stadium.info1" = "Arrive in advance.";
+"stadium.info2" = "Check permitted items.";
+"stadium.info3" = "Follow staff directions.";
+
+"modal.capacity" = "Capacity";
+"modal.description" = "Description";
+"modal.activities" = "Activities";
+"modal.map_button" = "View on Map";
+"modal.tickets_button" = "Get Tickets";
+
+"eb.no_date" = "Date TBD";
+"eb.no_title" = "Untitled Event";
+"eb.no_description" = "No description available.";
+"eb.event_type" = "EVENT";
+"eb.tickets_button" = "View on Eventbrite";
+
+"alert.notifications_title" = "Notifications";
+"alert.notif_disabled" = "Notifications disabled for this match.";
+"alert.notif_enabled" = "You will receive notifications for this match!";
+"alert.notif_denied" = "Notification permission denied. You can enable them in Settings.";
+
+"settings.title" = "Preferences";
+"settings.display_mode" = "Display Mode";
+"settings.language" = "Language";
+"settings.permissions" = "Permissions";
+"settings.permissions.subtitle" = "Manage app permissions";
+"settings.help" = "Help & Support";
+"settings.help.subtitle" = "FAQ and contact";
+
+"loading.events" = "Loading events...";
+"error.loading_events" = "Error loading events";
+"error.retry_button" = "Retry";
+
+"match.live" = "Live";
+"México" = "Mexico";
+"Portugal" = "Portugal";
+"Alemania" = "Germany";
+"Canadá" = "Canada";
+"Brasil" = "Brazil";
+"FAN ZONE" = "FAN ZONE";
+"CONCIERTO" = "CONCERT";
+"TOUR" = "TOUR";
+"GASTRONÓMICO" = "GASTRONOMIC";
+"DEPORTIVO" = "SPORTS";
+"CULTURAL" = "CULTURAL";
+
+"appearance.system" = "System";
+"appearance.light" = "Light";
+"appearance.dark" = "Dark";
+"language.spanish" = "Spanish";
+"language.english" = "English";
+
+"notif.goal_title" = "GOAL";
+"notif.goal_body" = "Goal for %@! Score: %@)";
+
+"help.title" = "Help & Support";
+"help.faq1.q" = "How do I change the city?";
+"help.faq1.a" = "Tap the city name at the top of the Home screen to open the selection menu.";
+"help.faq2.q" = "How do I turn on match notifications?";
+"help.faq2.a" = "On the 'Next Match' card, tap the bell icon. You will be asked for permission the first time.";
+"help.faq3.q" = "The language didn't change.";
+"help.faq3.a" = "After changing the language, please restart the app for the changes to apply fully.";
+"help.contact.title" = "Contact Us";
+"help.contact.website" = "Support Website";
+
+"login.subtitle" = "Live the city, football and excitement in one app.";
+"login.select_language" = "Select your language";
+"login.continue_button" = "Continue";
+
+"setup.skip" = "Skip";
+"setup.title" = "Choose Your Favorite Teams";
+"setup.teams_selected" = "%lld teams selected"; // Use %lld for the number
+"setup.search_results" = "Search Results";
+"setup.no_teams" = "No teams found";
+
+"CONCACAF" = "North and Central America";
+"CONMEBOL" = "South America";
+"UEFA" = "Europe";
+"AFC" = "Asia";
+"CAF" = "Africa";
+"OFC" = "Oceania";
+
+// Estas claves se han añadido para la localización de nombres de países
+"Estados Unidos" = "United States";
+"México" = "Mexico";
+"Canadá" = "Canada";
+"Costa Rica" = "Costa Rica";
+"Panamá" = "Panama";
+"Marruecos" = "Morocco";
+"Senegal" = "Senegal";
+"Costa de Marfil" = "Ivory Coast";
+"Egipto" = "Egypt";
+"Túnez" = "Tunisia";
+"Sudáfrica" = "South Africa";
+"Ghana" = "Ghana";
+"Argelia" = "Algeria";
+"Cabo Verde" = "Cape Verde";
+"Nigeria" = "Nigeria";
+"Japón" = "Japan";
+"Corea del Sur" = "South Korea";
+"Arabia Saudita" = "Saudi Arabia";
+"Australia" = "Australia";
+"Irán" = "Iran";
+"Uzbekistán" = "Uzbekistan";
+"Qatar" = "Qatar";
+"Jordania" = "Jordan";
+"Iraq" = "Iraq";
+"Nueva Zelanda" = "New Zealand";
+"Argentina" = "Argentina";
+"Brasil" = "Brazil";
+"Colombia" = "Colombia";
+"Uruguay" = "Uruguay";
+"Ecuador" = "Ecuador";
+"Paraguay" = "Paraguay";
+"Inglaterra" = "England";
+"España" = "Spain";
+"Francia" = "France";
+"Alemania" = "Germany";
+"Países Bajos" = "Netherlands";
+"Italia" = "Italy";
+"Bélgica" = "Belgium";
+"Croacia" = "Croatia";
+"Suiza" = "Switzerland";
+"Dinamarca" = "Denmark";
+"Suecia" = "Sweden";
+"Polonia" = "Poland";
+"Turquía" = "Turkey";
+"República Checa" = "Czech Republic";
+"Serbia" = "Serbia";
+
+/* --- General --- */
+"search_placeholder" = "Search";
+
+/* --- CultureView --- */
+"culture.title" = "What to do...";
+"culture.subtitle" = "Looking for something new? Discover these places that make the city more exciting!";
+"culture.see_more" = "See more...";
+"culture.results" = "Results";
+"culture.results.count" = "%d results";
+"culture.no_results" = "No results found";
+"culture.try_again" = "Try another search";
+"culture.go_button" = "Go";
+
+/* --- Sort Options --- */
+"culture.sort.distance" = "By distance";
+"culture.sort.category" = "By category";
+"culture.sort.alphabetically" = "Alphabetically";
+"culture.sort.price" = "By price";
+"culture.sort.open" = "Open";
+
+/* --- Filter Sheet --- */
+"culture.filter.title" = "Select how you want to sort the results:";
+"culture.filter.order_button" = "ORDER";
+"culture.filter.cancel_button" = "CANCEL";

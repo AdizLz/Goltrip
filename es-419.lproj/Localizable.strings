@@ -1,0 +1,184 @@
+"home.subtitle" = "World Cup";
+"match.next" = "Próximo Partido";
+"home.no_match" = "No hay partido programado en ";
+"home.featured_in" = "Eventos Destacados en ";
+"home.no_featured_events" = "No hay eventos destacados hoy.";
+"home.see_all_events" = "Ver todos los eventos";
+"home.more_events_eb" = "Más Eventos";
+"home.no_eb_events" = "No se encontraron eventos adicionales.";
+"home.quick_access" = "Opciones de Acceso";
+"home.stadium" = "Estadio";
+"home.stadium_map" = "Mapa del estadio";
+"home.transport" = "Transporte";
+"home.how_to_get" = "Cómo llegar";
+
+"events.title" = "Todos los Eventos";
+"events.featured.title" = "Eventos Destacados";
+"events.eventbrite.title" = "Eventos";
+
+"stadium.subtitle" = "Mapa interactivo";
+"stadium.view" = "Vista del Estadio";
+"stadium.capacity" = "Capacidad: ";
+"stadium.people_label" = " personas";
+"stadium.facilities" = "Instalaciones";
+"stadium.seats" = "Asientos";
+"stadium.seats.desc" = "VIP, Preferente, General";
+"stadium.food" = "Comida y Bebida";
+"stadium.food.desc" = "Varios puntos de venta";
+"stadium.accessibility" = "Accesibilidad";
+"stadium.accessibility.desc" = "Rampas y elevadores";
+"stadium.important" = "Importante";
+"stadium.info1" = "Llegue con anticipación.";
+"stadium.info2" = "Revise objetos permitidos.";
+"stadium.info3" = "Siga indicaciones.";
+
+"modal.capacity" = "Capacidad";
+"modal.description" = "Descripción";
+"modal.activities" = "Actividades";
+"modal.map_button" = "Ver en Mapa";
+"modal.tickets_button" = "Obtener Boletos";
+
+"eb.no_date" = "Fecha por decidir";
+"eb.no_title" = "Evento sin título";
+"eb.no_description" = "No hay descripción disponible.";
+"eb.event_type" = "EVENTO";
+"eb.tickets_button" = "Ver en Eventbrite";
+
+"alert.notifications_title" = "Notificaciones";
+"alert.notif_disabled" = "Notificaciones desactivadas para este partido.";
+"alert.notif_enabled" = "¡Recibirás notificaciones para este partido!";
+"alert.notif_denied" = "Permiso de notificación denegado. Puedes activarlo en Ajustes.";
+
+"settings.title" = "Preferencias";
+"settings.display_mode" = "Modo de visualización";
+"settings.language" = "Idioma";
+"settings.permissions" = "Permisos";
+"settings.permissions.subtitle" = "Gestionar permisos de la app";
+"settings.help" = "Ayuda y Soporte";
+"settings.help.subtitle" = "FAQ y contacto";
+
+"loading.events" = "Cargando eventos...";
+"error.loading_events" = "Error al cargar eventos";
+"error.retry_button" = "Reintentar";
+
+"match.live" = "En Vivo";
+"México" = "México";
+"Portugal" = "Portugal";
+"Alemania" = "Alemania";
+"Canadá" = "Canadá";
+"Brasil" = "Brasil";
+"FAN ZONE" = "FAN ZONE";
+"CONCIERTO" = "CONCIERTO";
+"TOUR" = "TOUR";
+"GASTRONÓMICO" = "GASTRONÓMICO";
+"DEPORTIVO" = "DEPORTIVO";
+"CULTURAL" = "CULTURAL";
+
+"appearance.system" = "Sistema";
+"appearance.light" = "Claro";
+"appearance.dark" = "Oscuro";
+"language.spanish" = "Español";
+"language.english" = "Inglés";
+
+"notif.goal_title" = "¡GOOOL!";
+"notif.goal_body" = "¡Gol de %@! El marcador es %@";
+
+"help.title" = "Ayuda y Soporte";
+"help.faq1.q" = "¿Cómo cambio la ciudad?";
+"help.faq1.a" = "Toca el nombre de la ciudad en la parte superior de la pantalla de inicio para abrir el menú de selección.";
+"help.faq2.q" = "¿Cómo activo las notificaciones de un partido?";
+"help.faq2.a" = "En la tarjeta de 'Próximo Partido', toca el ícono de la campana. Se te pedirá permiso la primera vez.";
+"help.faq3.q" = "El idioma no cambió.";
+"help.faq3.a" = "Después de cambiar el idioma, por favor reinicia la app para que los cambios se apliquen por completo.";
+"help.contact.title" = "Contáctanos";
+"help.contact.website" = "Sitio web de Soporte";
+
+"login.subtitle" = "Vive la ciudad, el fútbol y la emoción en una sola app.";
+"login.select_language" = "Selecciona tu idioma";
+"login.continue_button" = "Continuar";
+
+"setup.skip" = "Saltar";
+"setup.title" = "Elige tus equipos favoritos";
+"setup.teams_selected" = "%lld equipos seleccionados"; // Usar el modificador de formato %lld para el número
+"setup.search_results" = "Resultados de búsqueda";
+"setup.no_teams" = "No se encontraron equipos";
+
+"CONCACAF" = "Norteamérica y Centroamérica";
+"CONMEBOL" = "Sudamérica";
+"UEFA" = "Europa";
+"AFC" = "Asia";
+"CAF" = "África";
+"OFC" = "Oceanía";
+
+// Estas claves se han añadido para la localización de nombres de países
+"Estados Unidos" = "Estados Unidos";
+"México" = "México";
+"Canadá" = "Canadá";
+"Costa Rica" = "Costa Rica";
+"Panamá" = "Panamá";
+"Marruecos" = "Marruecos";
+"Senegal" = "Senegal";
+"Costa de Marfil" = "Costa de Marfil";
+"Egipto" = "Egipto";
+"Túnez" = "Túnez";
+"Sudáfrica" = "Sudáfrica";
+"Ghana" = "Ghana";
+"Argelia" = "Argelia";
+"Cabo Verde" = "Cabo Verde";
+"Nigeria" = "Nigeria";
+"Japón" = "Japón";
+"Corea del Sur" = "Corea del Sur";
+"Arabia Saudita" = "Arabia Saudita";
+"Australia" = "Australia";
+"Irán" = "Irán";
+"Uzbekistán" = "Uzbekistán";
+"Qatar" = "Qatar";
+"Jordania" = "Jordania";
+"Iraq" = "Iraq";
+"Nueva Zelanda" = "Nueva Zelanda";
+"Argentina" = "Argentina";
+"Brasil" = "Brasil";
+"Colombia" = "Colombia";
+"Uruguay" = "Uruguay";
+"Ecuador" = "Ecuador";
+"Paraguay" = "Paraguay";
+"Inglaterra" = "Inglaterra";
+"España" = "España";
+"Francia" = "Francia";
+"Alemania" = "Alemania";
+"Países Bajos" = "Países Bajos";
+"Italia" = "Italia";
+"Bélgica" = "Bélgica";
+"Croacia" = "Croacia";
+"Suiza" = "Suiza";
+"Dinamarca" = "Dinamarca";
+"Suecia" = "Suecia";
+"Polonia" = "Polonia";
+"Turquía" = "Turquía";
+"República Checa" = "República Checa";
+"Serbia" = "Serbia";
+
+/* --- General --- */
+"search_placeholder" = "Buscar";
+
+/* --- CultureView --- */
+"culture.title" = "Qué hacer...";
+"culture.subtitle" = "¿Buscas algo nuevo? ¡Conoce estos lugares que hacen de la ciudad más emocionante!";
+"culture.see_more" = "Ver más...";
+"culture.results" = "Resultados";
+"culture.results.count" = "%d resultado(s)";
+"culture.no_results" = "No se encontraron resultados";
+"culture.try_again" = "Intenta con otra búsqueda";
+"culture.go_button" = "Ir";
+
+/* --- Sort Options --- */
+"culture.sort.distance" = "Por distancia";
+"culture.sort.category" = "Por categoría";
+"culture.sort.alphabetically" = "Alfabéticamente";
+"culture.sort.price" = "Por precio";
+"culture.sort.open" = "Abierto";
+
+/* --- Filter Sheet --- */
+"culture.filter.title" = "Selecciona cómo quieres ordenar los resultados:";
+"culture.filter.order_button" = "ORDENAR";
+"culture.filter.cancel_button" = "CANCELAR";

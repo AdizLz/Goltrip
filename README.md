@@ -85,6 +85,10 @@ Los textos están en archivos Localizable.strings dentro de es-419.lproj/ y en.l
 - UserNotifications → Notificaciones locales.
 - WebKit → Contenido web embebido.
 - UIKit → Integración con componentes nativos.
+---
+<img width="1506" height="833" alt="image" src="https://github.com/user-attachments/assets/ef3f191c-4404-4158-b6af-113ef349c9be" />
+<img width="1481" height="862" alt="image" src="https://github.com/user-attachments/assets/714e723a-1d4c-4595-8afe-e28bc2fe7cf1" />
+
 
 ## 👩‍💻 Autoras
 
